@@ -1,6 +1,5 @@
 .body {
-  background-image: url("https://therealdonaldtrumpet.github.io/trumpet.jpg") !important;
-  background-repeat: no-repeat;
+  background: url("https://therealdonaldtrumpet.github.io/trumpet.jpg") no-repeat center fixed;  
 background-size: contain;
   -webkit-background-size: cover;
   -moz-background-size: cover;
